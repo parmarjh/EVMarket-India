@@ -144,9 +144,9 @@ This study endeavoured to present EV taxonomy using an a-priori approach to cate
 
 ## :heart: Owner
 
-Made with :heart:&nbsp; by [Chaganti Reddy](https://github.com/Chaganti-Reddy/)
+Made with :heart:&nbsp; by [Jatinkumar parmar](https://github.com/parmarjh/)
 
 ## :eyes: License
 
-MIT © [Chaganti Reddy](https://github.com/Chaganti-Reddy/EVMarket-India/blob/master/LICENSE)
+MIT © [jatinkumar parmar](https://github.com/parmarjh/EVMarket-India/blob/master/LICENSE)
 </h1>
