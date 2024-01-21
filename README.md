@@ -72,7 +72,7 @@ All the dependencies and required libraries are included in the file <code>requi
 1. Clone the repo
 
 ```
-$ git clone https://github.com/Chaganti-Reddy/EVMarket-India.git
+$ git clone https://github.com/parmarjh/EVMarket-India.git
 ```
 
 2. Change your directory to the cloned repo
@@ -123,7 +123,7 @@ $ python3 evmarket_india.py
 ## :clap: And it's done!
 
 Feel free to mail me for any doubts/query
-:email: chagantivenkataramireddy1@gmail.com
+:email: parmarjatin4911@gmail.com
 
 ---
 
@@ -133,7 +133,7 @@ You are allowed to cite any part of the code or our dataset. You can use it in y
 
 Follow this format:
 
-- Author's name - Chaganti Reddy
+- Author's name - Jatin parmar
 - Date of publication or update in parentheses.
 - Title or description of document.
 - URL.
